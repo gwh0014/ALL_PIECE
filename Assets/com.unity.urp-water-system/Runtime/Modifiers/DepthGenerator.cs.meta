@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e9111d17a5cccf418d7e32f4c601e67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - depthTile: {instanceID: 0}
+  - mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  - debugMaterial: {fileID: 2100000, guid: 05b76dd56de7b4597919a4113a60d438, type: 2}
+  - shader: {fileID: 4800000, guid: c4574d3ff5344431f8a764cf43fd0bbb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

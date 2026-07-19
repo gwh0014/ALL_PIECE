@@ -192,7 +192,7 @@ public class UIManager : MonoBehaviour
             r.anchorMin = new Vector2(1, 1);
             r.anchorMax = new Vector2(1, 1);
             r.pivot = new Vector2(1, 1);
-            r.anchoredPosition = new Vector2(-25f, -25f);
+            r.anchoredPosition = new Vector2(-50f, -250f);
             r.sizeDelta = new Vector2(400f, 40f);
 
             Shadow shadow = treasureTextObj.AddComponent<Shadow>();
